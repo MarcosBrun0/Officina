@@ -1,6 +1,15 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my Officina
 ---
+In this space I will share my thoughts and the things that I'm currently studying.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+# Projects
+1. [[CodeInPlace]]
+2. another project
+
+# Thoughts
+1. ....
+2. ....
+3. ...
+4. 

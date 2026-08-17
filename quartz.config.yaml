@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Officina
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -230,8 +230,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/MarcosBrun0
+        #Discord Community: https://discord.gg/cRFFHYye7t
     layout:
       position: footer
       priority: 50

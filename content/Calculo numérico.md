@@ -14,13 +14,10 @@ tags:
 ### Aula 17/08/26
  $$\sqrt(x) - 5e^{-x})$$
  A professora usou derivada para calcular se a função é crescente ou descresente
-#### Analise gráfica
-	$$x^3 -9x +3 = 0
-	\newline
-, g(x) = x^3 \newline h(x) = 9x -3
-$$
+#### Analise gráfica	$$x^3 -9x +3 = 0$$
+$$g(x) = x^3 \newline h(x) = 9x -3$$
 
-	
+
 bom, tem métodos para achar a raiz:
 - método da bissecção
 - método da falsa posição
@@ -56,8 +53,8 @@ Comparação entre os métodos
 - f(x) = 0 , f(x) = eˆ(-ax)+xˆ2 -10
 - tolerância : E <= 10ˆ(-5)
 - intervalo(raiz positiva) : I = [2.4 ,3.5]
-- invervalo(raiz negativa): I/2 = [a,b]= ?
--
+- intervalo(raiz negativa): I/2 = [a,b]= ?
+
 Bisseção, Falsa posição, Ponto fixo, Newton e Secante
 
 ==Aproveite para criar um programa com todos os metodos 

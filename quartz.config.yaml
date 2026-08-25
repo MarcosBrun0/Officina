@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: marcosbrun0.github.io/officina
+  baseUrl: marcosbrun0.github.io/
   ignorePatterns:
     - private
     - templates
